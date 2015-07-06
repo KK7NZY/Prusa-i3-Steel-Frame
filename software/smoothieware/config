@@ -2,12 +2,12 @@
 default_feed_rate                            4000             # Default rate ( mm/minute ) for G1/G2/G3 moves
 default_seek_rate                            4000             # Default rate ( mm/minute ) for G0 moves
 mm_per_arc_segment                           0.5              # Arcs are cut into segments ( lines ), this is the length for these segments.  Smaller values mean more resolution, higher values mean faster computation
-#mm_per_line_segment                          5                # Lines can be cut into segments ( not usefull with cartesian coordinates robots ).
+#mm_per_line_segment                          5               # Lines can be cut into segments ( not usefull with cartesian coordinates robots ).
 
 # Arm solution configuration : Cartesian robot. Translates mm positions into stepper positions
-alpha_steps_per_mm                           80               # Steps per mm for alpha stepper
-beta_steps_per_mm                            80               # Steps per mm for beta stepper
-gamma_steps_per_mm                           1637.7953        # Steps per mm for gamma stepper
+alpha_steps_per_mm                           160              # Steps per mm for alpha stepper
+beta_steps_per_mm                            160              # Steps per mm for beta stepper
+gamma_steps_per_mm                           8000             # Steps per mm for gamma stepper
 
 # Planner module configuration : Look-ahead and acceleration configuration
 planner_queue_size                           32               # DO NOT CHANGE THIS UNLESS YOU KNOW EXACTLY WHAT YOUR ARE DOING
@@ -25,21 +25,21 @@ base_stepping_frequency                      100000           # Base frequency f
 alpha_step_pin                               2.1              # Pin for alpha stepper step signal
 alpha_dir_pin                                0.11             # Pin for alpha stepper direction
 alpha_en_pin                                 0.10             # Pin for alpha enable pin
-alpha_current                                1.5              # X stepper motor current
+alpha_current                                1.05              # X stepper motor current
 x_axis_max_speed                             30000            # mm/min
 alpha_max_rate                               30000.0          # mm/min actuator max speed
 
 beta_step_pin                                2.2              # Pin for beta stepper step signal
 beta_dir_pin                                 0.20             # Pin for beta stepper direction
 beta_en_pin                                  0.19             # Pin for beta enable
-beta_current                                 1.5              # Y stepper motor current
+beta_current                                 1.05             # Y stepper motor current
 y_axis_max_speed                             30000            # mm/min
 beta_max_rate                                30000.0          # mm/min actuator max speed
 
 gamma_step_pin                               2.3              # Pin for gamma stepper step signal
 gamma_dir_pin                                0.22             # Pin for gamma stepper direction
 gamma_en_pin                                 0.21             # Pin for gamma enable
-gamma_current                                1.5              # Z stepper motor current
+gamma_current                                1.05             # Z stepper motor current
 z_axis_max_speed                             300              # mm/min
 gamma_max_rate                               300.0            # mm/min actuator max speed
 
@@ -58,13 +58,13 @@ extruder_max_speed                           1000             # mm/sec NOTE only
 extruder_step_pin                            2.0              # Pin for extruder step signal
 extruder_dir_pin                             0.5              # Pin for extruder dir signal
 extruder_en_pin                              0.4              # Pin for extruder enable signal
-delta_current                                1.5              # Extruder stepper motor current
+delta_current                                1.05             # Extruder stepper motor current
 
 # Laser module configuration
 laser_module_enable                          false            # Whether to activate the laser module at all. All configuration is ignored if false.
-#laser_module_pin                             2.7              # this pin will be PWMed to control the laser
-#laser_module_max_power                       0.8              # this is the maximum duty cycle that will be applied to the laser
-#laser_module_tickle_power                    0.0              # this duty cycle will be used for travel moves to keep the laser active without actually burning
+#laser_module_pin                             2.7             # this pin will be PWMed to control the laser
+#laser_module_max_power                       0.8             # this is the maximum duty cycle that will be applied to the laser
+#laser_module_tickle_power                    0.0             # this duty cycle will be used for travel moves to keep the laser active without actually burning
 
 # Hotend temperature control configuration
 temperature_control.hotend.enable            true             # Whether to activate this ( "hotend" ) module at all. All configuration is ignored if false.
