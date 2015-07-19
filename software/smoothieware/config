@@ -50,7 +50,7 @@ second_usb_serial_enable                     false            # This enables a s
 
 # Extruder module configuration
 extruder_module_enable                       true             # Whether to activate the extruder module at all. All configuration is ignored if false
-extruder_steps_per_mm                        140              # Steps per mm for extruder stepper
+extruder_steps_per_mm                        160.02377496085134              # Steps per mm for extruder stepper
 extruder_default_feed_rate                   600              # Default rate ( mm/minute ) for moves where only the extruder moves
 extruder_acceleration                        500              # Acceleration in mm/sec^2, only used for retracts
 extruder_max_speed                           1000             # mm/sec NOTE only used for retracts
@@ -134,9 +134,9 @@ beta_min_endstop                             1.26^            #
 beta_homing_direction                        home_to_min      #
 beta_min                                     0                #
 beta_max                                     200              #
-#gamma_min_endstop                           1.28^            #
-gamma_max_endstop                            1.28^            #
-gamma_homing_direction                       home_to_max      #
+gamma_min_endstop                            1.28^            #
+#gamma_max_endstop                           1.28^            #
+gamma_homing_direction                       home_to_min      #
 gamma_min                                    0                #
 gamma_max                                    200              #
 
