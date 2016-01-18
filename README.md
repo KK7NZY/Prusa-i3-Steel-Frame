@@ -20,7 +20,7 @@ RepRap P3Steel parts and build instructions.
 | Smooth Rod 08x375 mm (X-Axis)  |    -    |   2  |   -  |     -    |
 | Smooth Rod 08x341 mm (Y-Axis)  |    -    |   2  |   -  |     -    |
 | Smooth Rod 08x320 mm (Z-Axis)  |    -    |   2  |   -  |     -    |
-| Prusa i3 Frame                 |  $41.44 |   1  |  ea. |     -    |
+| Prusa i3 Frame V2.01           |  $41.44 |   1  |  ea. |     -    |
 | Computer Power Cord 10-ft.     |  $11.81 |   1  |  ea. |   $11.81 |
 | M3 Stud Thermistor             |  $11.95 |   1  |  ea. |   $11.95 |
 | E3D V6 Full Kit (Universal)    |  $79.00 |   1  |  ea. |   $79.00 |
