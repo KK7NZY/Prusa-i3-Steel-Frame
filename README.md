@@ -14,7 +14,7 @@ RepRap P3Steel parts and build instructions.
 | 623ZZ miniature bearings             |    -    |   2  |   -  |     -    |  
 | GT2 Pulleys                          |    -    |   2  |   -  |     -    |
 | GT2 Belt, 6mm                        |    -    |   2  |  mr. |     -    |
-| Z-Axis Coupler                       |   $4.48 |   2  |  ea. |    $8.96 |   
+| Aluminum Flexible Coupling (Z-Axis)  |   $4.48 |   2  |  ea. |    $8.96 |   
 | NEMA 17 Stepper motors               |  $14.50 |   5  |   -  |   $72.50 |
 | Threaded Rod M5x295 mm               |    -    |   2  |   -  |     -    |
 | Smooth Rod 08x375 mm (X-Axis)        |    -    |   2  |   -  |     -    |
