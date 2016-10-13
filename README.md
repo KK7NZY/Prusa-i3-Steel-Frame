@@ -1,7 +1,7 @@
 # P3Steel
 RepRap P3Steel parts and build instructions.
 
-#### Electronics
+### Electronics
 
 - (1) 2004 LCD Smart Display Controller Module
 - (3) Mechanical End Stop w/ Wiring
