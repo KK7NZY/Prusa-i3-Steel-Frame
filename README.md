@@ -17,7 +17,7 @@ RepRap P3Steel parts and build instructions.
 - (1) PRUSA I3 STEEL FRAME
 - (4) M4-0.7 X 25MM
 - (4) M4-0.7 HEX NUTS
-- (1) GT2 BELT 6MM WIDE 
+- (2) 1M GT2 BELT
 - (2) GT2 PULLEY W/20 TEETH
 - (2) 5x5 ALUMINUM COUPLER SHAFT
 - (3) BALL BEARING B608ZZ
