@@ -18,8 +18,9 @@ RepRap P3Steel parts and build instructions.
 - (4) M4-0.7 X 25MM
 - (4) M4-0.7 HEX NUTS
 - (2) 1M GT2 BELT
-- (2) GT2 PULLEY W/20 TEETH
+- (2) GT2 PULLEY w/20 TEETH
 - (2) 5x5 ALUMINUM COUPLER SHAFT
 - (3) BALL BEARING B608ZZ
 - (2) BALL BEARING B623ZZ
 - (12) [IGUS DRYLIN® RJ4JP 01-08](http://www.igus.eu/wpck/12157/Motek14_N14_6_3_Vollkunststofflager?L=en)
+- (4) [M3 KNURLED THUMB NUTS w/SPRINGS](https://www.amazon.com/gp/product/B01CTW9PTS/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
