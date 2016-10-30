@@ -23,4 +23,4 @@ RepRap P3Steel parts and build instructions.
 - (3) BALL BEARING B608ZZ
 - (2) BALL BEARING B623ZZ
 - (12) [IGUS DRYLIN® RJ4JP 01-08](http://www.igus.eu/wpck/12157/Motek14_N14_6_3_Vollkunststofflager?L=en)
-- (4) [M3 KNURLED THUMB NUTS w/SPRINGS](https://www.amazon.com/gp/product/B01CTW9PTS/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- (4) [M3 KNURLED THUMB NUT w/SPRING](https://www.amazon.com/gp/product/B01CTW9PTS/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
