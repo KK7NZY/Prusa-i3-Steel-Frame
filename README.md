@@ -10,7 +10,10 @@ RepRap P3Steel parts and build instructions.
 - (1) HEATBED MK3 ALUMINIUM 12V/24V
 - (4) STEPPER MOTORS NEMA 17 67 OZ-IN
 - (1) BULLDOG LITE EXTRUDER 
-- (1) [J-Head V8](https://www.hotends.com/index.php?route=product/product&product_id=98)
+- (1) Hotend 1.75mm, .4mm nozzle
+  * [J-Head V8](https://www.hotends.com/index.php?route=product/product&product_id=98)
+  * [Hexagon](http://www.reprapdiscount.com/hotends/67-hexagon-hotend-set.html)
+  * [E3D v6 Universal (Direct) (12v)](http://e3d-online.com/E3D-v6/Full-Kit/v6-1.75mm-Universal)
 - (5) [A4988 STEPPER MOTOR DRIVER CARRIER](https://www.pololu.com/product/2986)
 
 ### Hardware
