@@ -4,7 +4,6 @@ RepRap P3Steel parts and build instructions.
 ### Electronics
 
 - (1) [RAMPS 1.4 SB](https://www.staticboards.es/productos/ramps14sb/)
-- (1) [RAMPS 1.4 RRD FAN EXTENDER](http://www.geeetech.com/wiki/index.php/Reprap_Ramps1.4_RRD_Fan_Extender)
 - (1) LCD 2004 SMART CONTROLLER
 - (3) MECHANICAL ENDSTOP
 - (1) HEATBED MK3 ALUMINIUM 12V/24V
