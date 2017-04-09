@@ -1,6 +1,8 @@
 # P3Steel
 RepRap P3Steel parts and build instructions.
 
+http://reprap.org/wiki/P3Steel
+
 ### Electronics
 
 - (1) [RAMPS 1.4 SB](https://www.staticboards.es/productos/ramps14sb/)
