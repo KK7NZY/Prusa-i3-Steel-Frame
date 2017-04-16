@@ -8,9 +8,9 @@ mm_max_arc_error                             0.01             # The maximum erro
 #mm_per_line_segment                          5                # Lines can be cut into segments ( not usefull with cartesian coordinates robots ).
 
 # Arm solution configuration : Cartesian robot. Translates mm positions into stepper positions
-alpha_steps_per_mm                           80               # Steps per mm for alpha stepper
-beta_steps_per_mm                            80               # Steps per mm for beta stepper
-gamma_steps_per_mm                           1637.7953        # Steps per mm for gamma stepper
+alpha_steps_per_mm                           200.00           # Steps per mm for alpha stepper ( 80 )
+beta_steps_per_mm                            200.00           # Steps per mm for beta stepper  ( 80 )
+gamma_steps_per_mm                           3200.00          # Steps per mm for gamma stepper ( 1637.7953 )
 
 # Planner module configuration : Look-ahead and acceleration configuration
 planner_queue_size                           32               # DO NOT CHANGE THIS UNLESS YOU KNOW EXACTLY WHAT YOUR ARE DOING
@@ -27,21 +27,21 @@ base_stepping_frequency                      100000           # Base frequency f
 alpha_step_pin                               2.1              # Pin for alpha stepper step signal
 alpha_dir_pin                                0.11             # Pin for alpha stepper direction
 alpha_en_pin                                 0.10             # Pin for alpha enable pin
-alpha_current                                1.0              # X stepper motor current
+alpha_current                                1.2              # X stepper motor current
 x_axis_max_speed                             30000            # mm/min
 alpha_max_rate                               30000.0          # mm/min actuator max speed
 
 beta_step_pin                                2.2              # Pin for beta stepper step signal
 beta_dir_pin                                 0.20             # Pin for beta stepper direction
 beta_en_pin                                  0.19             # Pin for beta enable
-beta_current                                 1.0              # Y stepper motor current
+beta_current                                 1.2              # Y stepper motor current
 y_axis_max_speed                             30000            # mm/min
 beta_max_rate                                30000.0          # mm/min actuator max speed
 
 gamma_step_pin                               2.3              # Pin for gamma stepper step signal
 gamma_dir_pin                                0.22             # Pin for gamma stepper direction
 gamma_en_pin                                 0.21             # Pin for gamma enable
-gamma_current                                1.0              # Z stepper motor current
+gamma_current                                1.2              # Z stepper motor current
 z_axis_max_speed                             300              # mm/min
 gamma_max_rate                               300.0            # mm/min actuator max speed
 
@@ -56,7 +56,7 @@ second_usb_serial_enable                     false            # This enables a s
 
 ## Extruder module configuration
 extruder.hotend.enable                          true             # Whether to activate the extruder module at all. All configuration is ignored if false
-extruder.hotend.steps_per_mm                    140              # Steps per mm for extruder stepper
+extruder.hotend.steps_per_mm                    84.88270801303375   # Steps per mm for extruder stepper ( 140 )
 extruder.hotend.default_feed_rate               600              # Default rate ( mm/minute ) for moves where only the extruder moves
 extruder.hotend.acceleration                    500              # Acceleration for the stepper motor mm/sec²
 extruder.hotend.max_speed                       50               # mm/s
@@ -78,7 +78,7 @@ extruder.hotend.en_pin                          0.4             # Pin for extrud
 #extruder.hotend.retract_zlift_length            0               # zlift on retract in mm, 0 disables
 #extruder.hotend.retract_zlift_feedrate          6000            # zlift feedrate in mm/min (Note mm/min NOT mm/sec)
 
-delta_current                                1.0              # Extruder stepper motor current
+delta_current                                1.2              # Extruder stepper motor current
 
 # Laser module configuration
 laser_module_enable                          false            # Whether to activate the laser module at all. All configuration is
@@ -102,12 +102,12 @@ temperature_control.hotend.thermistor        Semitec          # see http://smoot
 temperature_control.hotend.set_m_code        104              #
 temperature_control.hotend.set_and_wait_m_code 109            #
 temperature_control.hotend.designator        T                #
-#temperature_control.hotend.max_temp         300              # Set maximum temperature - Will prevent heating above 300 by default
+#temperature_control.hotend.max_temp         275              # Set maximum temperature - (Default 300) https://wiki.e3d-online.com/wiki/FAQs
 #temperature_control.hotend.min_temp         0                # Set minimum temperature - Will prevent heating below 0 by default
 
-temperature_control.hotend.p_factor          13.7             #
-temperature_control.hotend.i_factor          0.097            #
-temperature_control.hotend.d_factor          24               #
+temperature_control.hotend.p_factor          36.0             # ( 13.7 ) http://smoothieware.org/temperaturecontrol#pid-autotuning
+temperature_control.hotend.i_factor          2.040            # ( 0.097  )
+temperature_control.hotend.d_factor          158              # ( 24 )
 
 temperature_control.bed.enable               false            #
 temperature_control.bed.thermistor_pin       0.23             #
