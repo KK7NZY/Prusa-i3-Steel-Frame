@@ -6,7 +6,10 @@ http://reprap.org/wiki/P3Steel
 
 #### Autopid
 
-E3D-v6 Hotend
+**E3D-v6 Hotend**
+
+https://wiki.e3d-online.com/wiki/E3D-v6_Assembly
+
 ```shell
 M303 E0 S230 C10
 // Cycle 4: max 236.676,min:225.84,avg seperation: 0.281876
@@ -15,5 +18,3 @@ M303 E0 S230 C10
    Ki: 2.040
    Kd: 158
 ```
-
-
