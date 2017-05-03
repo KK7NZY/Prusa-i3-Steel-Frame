@@ -109,16 +109,16 @@ temperature_control.hotend.p_factor          36.0             # ( 13.7 ) http://
 temperature_control.hotend.i_factor          2.040            # ( 0.097  )
 temperature_control.hotend.d_factor          158              # ( 24 )
 
-temperature_control.bed.enable               false            #
+temperature_control.bed.enable               true             #
 temperature_control.bed.thermistor_pin       0.23             #
 temperature_control.bed.heater_pin           2.7              #
-#temperature_control.bed.thermistor           Honeywell100K    # see http://smoothieware.org/temperaturecontrol#toc5
-temperature_control.bed.beta                 3950             # or set the beta value
+temperature_control.bed.thermistor           EPCOS100K        # see http://smoothieware.org/temperaturecontrol#toc5
+#temperature_control.bed.beta                 3950            # or set the beta value
 
 temperature_control.bed.set_m_code           140              #
 temperature_control.bed.set_and_wait_m_code  190              #
 temperature_control.bed.designator           B                #
-temperature_control.bed.rt_curve             20,55600,100,6480,220,415
+#temperature_control.bed.rt_curve             20,55600,100,6480,220,415
 
 # Switch module for fan control
 switch.fan.enable                            true             #
