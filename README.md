@@ -6,7 +6,7 @@ http://reprap.org/wiki/P3Steel
 
 ### Bill of Materials
 
-| Part                                                     |  QTY  |        Supplier        | 
+| Part                                                     |  QTY  | Supplier               | 
 |----------------------------------------------------------|:-----:|------------------------|
 | Steel Frame                                              |   1   | Orballo Printing       | 
 | Steel X-Carriage Kit                                     |   1   | eBay (131925664995)    |    
