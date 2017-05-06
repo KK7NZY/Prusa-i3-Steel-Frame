@@ -6,21 +6,21 @@ http://reprap.org/wiki/P3Steel
 
 ### Bill of Materials
 
-| Part                                                     |  QTY  |        
-|----------------------------------------------------------|:-----:|
-| Steel Frame                                              |   1   |      
-| Steel X-Carriage Kit                                     |   1   |       
-| Heated Bed Adjustment M3 Thumb Nut                       |   4   |     
-| NEMA 17 Stepper Motor                                    |   4   |       
-| Half Height NEMA 17 Stepper Motor                        |   1   |              
-| All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal     |   1   |       
-| LM8UU Linear Bearings                                    |   12  |   
-| 8mm x 320mm Precision Chromed Linear Shaft Rod           |   2   |
-| 300mm x 8mm Lead 4 Start Lead Screw & Nut                |   2   |        
-| 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler      |   2   |
-| 8mm x 406mm Precision Chromed Linear Shaft Rod           |   2   |
-| GT2 16T 6mm Width                                        |   2   |
-| MK3 Aluminum Hot Bed w/Hardware                          |   1   |
+| Part                                                     |  QTY  |        Supplier        | 
+|----------------------------------------------------------|:-----:|------------------------|
+| Steel Frame                                              |   1   | Orballo Printing       | 
+| Steel X-Carriage Kit                                     |   1   | eBay (131925664995)    |    
+| Heated Bed Adjustment M3 Thumb Nut                       |   4   | eBay (221907839576)    | 
+| NEMA 17 Stepper Motor                                    |   4   | LulzBot                |
+| Half Height NEMA 17 Stepper Motor                        |   1   | LulzBot                |
+| All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal     |   1   | Filastruder            |       
+| LM8UU Linear Bearings                                    |   12  | Amazon                 |  
+| 8mm x 320mm Precision Chromed Linear Shaft Rod           |   2   | eBay                   |
+| 300mm x 8mm Lead 4 Start Lead Screw & Nut                |   2   | eBay                   |
+| 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler      |   2   | Amazon                 |
+| 8mm x 406mm Precision Chromed Linear Shaft Rod           |   2   | eBay (182458794200)    |
+| GT2 16T 6mm Width                                        |   2   | eBay (371601051088)    |
+| MK3 Aluminum Hot Bed w/Hardware                          |   1   | RepRap Champion        |
 
 
 **Autopid**
