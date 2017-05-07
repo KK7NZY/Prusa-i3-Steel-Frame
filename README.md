@@ -18,7 +18,7 @@ http://reprap.org/wiki/P3Steel
 | 300mm x 8mm Lead 4 Start Lead Screw & Nut                           |   2   | eBay                   |
 | 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler                 |   2   | Amazon                 |
 | 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   | eBay (182458794200)    |
-| GT2 16T 6mm Width                                                   |   2   | eBay (371601051088)    |
+| GT2 Pulley 16T 6mm Width                                            |   2   | eBay (371601051088)    |
 | MK3 Aluminum Hot Bed w/Hardware                                     |   1   | RepRap Champion        |
 | Heated Bed Adjustment M3 Thumb Nut                                  |   4   | eBay (221907839576)    |
 | Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm)  |   1   | Amazon                 |
