@@ -8,6 +8,8 @@ http://reprap.org/wiki/P3Steel
 
 | Part                                                                |  QTY  | Supplier               | 
 |---------------------------------------------------------------------|:-----:|------------------------|
+| Steel Frame                                                         |   1   | Orballo Printing       |      
+| Steel X-Carriage Kit                                                |   1   | eBay                   |
 | Azteeg X5 mini v1.1                                                 |   1   | Panucatt               |
 | NEMA 17 Stepper Motor                                               |   4   | LulzBot                |
 | Half Height NEMA 17 Stepper Motor                                   |   1   | LulzBot                |
