@@ -55,5 +55,10 @@ M303 E0 S230 C10
 
 ```shell
 M303 E1 S50 C8
-// 
+// Cycle 4: max: 50.6263, min: 49.3329, avg separation: 0.00749207
+	Ku: 502.053, Pu: 52.1
+	Trying:
+	Kp: 301.2
+	Ki: 11.564
+	Kd:  1962
 ```
