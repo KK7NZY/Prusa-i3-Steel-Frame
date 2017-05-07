@@ -16,13 +16,13 @@ http://reprap.org/wiki/P3Steel
 | All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal                |   1   | Filastruder            |
 | MK8 Filament all-Metal Remote Bowden Extruder Parts                 |   1   | eBay (272606962516)    |
 | LM8UU Linear Bearings                                               |  11   | Amazon                 | 
-| 8mm x 320mm Precision Chromed Linear Shaft Rod                      |   2   | eBay                   |
+| 8mm x 320mm Precision Chromed Linear Shaft Rod                      |   2   | eBay                   |
 | 300mm x 8mm Lead 4 Start Lead Screw & Nut                           |   2   | eBay                   |
 | 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler                 |   2   | Amazon                 |
-| 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   | eBay (182458794200)    |
-| GT2 Pulley 16T 6mm Width                                            |   2   | eBay (371601051088)    |
+| 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   | eBay                   |
+| GT2 Pulley 16T 6mm Width                                            |   2   | eBay                   |
 | MK3 Aluminum Hot Bed w/Hardware                                     |   1   | RepRap Champion        |
-| Heated Bed Adjustment M3 Thumb Nut                                  |   4   | eBay (221907839576)    |
+| Heated Bed Adjustment M3 Thumb Nut                                  |   4   | eBay                   |
 | Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm)  |   1   | Amazon                 |
 | 12v/30a DC Universal Regulated Switching Power Supply 360w          |   1   | Amazon                 |
 | 9 ft. 14/3 Power Tool Replacement Cord                              |   1   | HomeDepot              |
