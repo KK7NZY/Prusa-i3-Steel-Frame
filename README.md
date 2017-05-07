@@ -33,7 +33,10 @@ http://reprap.org/wiki/P3Steel
 | Aluminum Spacer (6 x 1/4" x 3/8")                                   |   3   | HomeDepot              |
 
 
-**Autopid**
+### Temperature Control
+
+http://smoothieware.org/temperaturecontrol?s[]=temperaturecontrol&s[]=pid&s[]=autotuning#pid-autotuning
+
 
 **E3D-v6 Hotend**
 
@@ -46,4 +49,11 @@ M303 E0 S230 C10
    Kp: 36.0
    Ki: 2.040
    Kd: 158
+```
+
+**Hotbed**
+
+```shell
+M303 E1 S50 C8
+// 
 ```
