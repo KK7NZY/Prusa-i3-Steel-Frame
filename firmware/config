@@ -120,6 +120,10 @@ temperature_control.bed.set_and_wait_m_code  190              #
 temperature_control.bed.designator           B                #
 #temperature_control.bed.rt_curve             20,55600,100,6480,220,415
 
+temperature_control.bed.p_factor             301.2            # 
+temperature_control.bed.i_factor             11.564           # 
+temperature_control.bed.d_factor             1962             #
+
 # Switch module for fan control
 switch.fan.enable                            true             #
 switch.fan.input_on_command                  M106             #
