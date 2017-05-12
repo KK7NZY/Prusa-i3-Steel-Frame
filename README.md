@@ -10,14 +10,13 @@ http://reprap.org/wiki/P3Steel
 
 | Part                                                                |  QTY  |
 |---------------------------------------------------------------------|:-----:|
-| Steel Frame                                                         |   1   | 
+| Steel Frame V2.01                                                   |   1   | 
 | Steel X-Carriage Kit                                                |   1   |
 
 #### Proteins
 
 | Part                                                                |  QTY  |
 |---------------------------------------------------------------------|:-----:|
-
 
 #### Electronics
 
@@ -26,7 +25,19 @@ http://reprap.org/wiki/P3Steel
 | Azteeg X5 mini v1.1                                                 |   1   |
 | 12v/30a DC Universal Regulated Switching Power Supply 360w          |   1   |
 | 9 ft. 14/3 Power Tool Replacement Cord                              |   1   |
+| All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal                |   1   |
+| MK3 Aluminum Hot Bed w/Hardware                                     |   1   |
 
+#### Hardware
+
+| Part                                                                |  QTY  |
+|---------------------------------------------------------------------|:-----:|
+| 8mm x 320mm Precision Chromed Linear Shaft Rod                      |   2   |
+| 300mm x 8mm Lead 4 Start Lead Screw & Nut                           |   2   |
+| 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   |
+| Heated Bed Adjustment M3 Thumb Nut                                  |   4   |
+| MK8 Filament all-Metal Remote Bowden Extruder Parts                 |   1   |
+| Aluminum Spacer (6 x 1/4" x 3/8")                                   |   3   |
 
 #### Mechanical parts
 
@@ -41,22 +52,15 @@ http://reprap.org/wiki/P3Steel
 | Half Height NEMA 17 Stepper Motor                                   |   1   |
 
 
+#### Optional
 
 | Part                                                                |  QTY  |
 |---------------------------------------------------------------------|:-----:|
-| All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal                |   1   |
-| MK8 Filament all-Metal Remote Bowden Extruder Parts                 |   1   |
-| 8mm x 320mm Precision Chromed Linear Shaft Rod                      |   2   |
-| 300mm x 8mm Lead 4 Start Lead Screw & Nut                           |   2   |
-| 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   |
-| MK3 Aluminum Hot Bed w/Hardware                                     |   1   |
-| Heated Bed Adjustment M3 Thumb Nut                                  |   4   |
 | Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm)  |   1   |
 | Dupont 2.54mm Connector Housing Female                              |   5   |
 | Dupont Jumper Wire Cable Female Pin Connector 2.54mm                |  30   |
 | Mellow-Yellow MDPC-X Sleeve (25ft)                                  |   1   |
 | Mechanical Endstop Switch                                           |   3   |
-| Aluminum Spacer (6 x 1/4" x 3/8")                                   |   3   |
 
 
 ### Temperature Control
