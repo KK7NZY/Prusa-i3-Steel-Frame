@@ -13,7 +13,12 @@ http://reprap.org/wiki/P3Steel
 
 **Proteins**
 
-- (2) Endstop Holder
+- (2) psu-clamp-top.stl
+- (2) psu-clip.stl
+- (1) psu-clamp-bottom.stl
+- (2) endstop-holder.stl
+- (1) feet-dampner-set.stl
+- (1) y-belt-holder.stl
 
 **Electronics**
 
@@ -31,12 +36,13 @@ http://reprap.org/wiki/P3Steel
 - (4) Heated Bed Adjustment M3 Thumb Nut
 - (1) MK8 Filament all-Metal Remote Bowden Extruder Parts
 - (1) Aluminum Spacer (6 x 1/4" x 3/8")
+- (3) Mechanical Endstop Switch
 
 **Mechanical parts**
 
 - (11) LM8UU Linear Bearings 
 - (2) 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler 
-- GT2 2mm pitch 6mm wide Timing Belt
+- (1) GT2 2mm pitch 6mm wide Timing Belt (5 Meters)
 - (2) GT2 Pulley 16T 6mm Width
 - (2) 608 Ball Bearing
 - (4) NEMA 17 Stepper Motor
@@ -47,8 +53,7 @@ http://reprap.org/wiki/P3Steel
 - (1) Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm) 
 - (5) Dupont 2.54mm Connector Housing Female
 - (30) Dupont Jumper Wire Cable Female Pin Connector 2.54mm
-- Mellow-Yellow MDPC-X Sleeve (25ft)
-- Mechanical Endstop Switch
+- (1) Mellow-Yellow MDPC-X Sleeve (25ft)
 
 ### Temperature Control
 
