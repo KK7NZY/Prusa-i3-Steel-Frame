@@ -19,6 +19,7 @@ http://reprap.org/wiki/P3Steel
 - (2) endstop-holder.stl
 - (1) feet-dampner-set.stl
 - (1) y-belt-holder.stl
+- (1) y-endstop.stl
 
 **Electronics**
 
