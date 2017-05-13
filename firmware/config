@@ -32,7 +32,7 @@ x_axis_max_speed                             30000            # mm/min
 alpha_max_rate                               30000.0          # mm/min actuator max speed
 
 beta_step_pin                                2.2              # Pin for beta stepper step signal
-beta_dir_pin                                 0.20             # Pin for beta stepper direction
+beta_dir_pin                                 0.20!            # Pin for beta stepper direction
 beta_en_pin                                  0.19             # Pin for beta enable
 beta_current                                 1.2              # Y stepper motor current
 y_axis_max_speed                             30000            # mm/min
@@ -113,7 +113,7 @@ temperature_control.bed.enable               true             #
 temperature_control.bed.thermistor_pin       0.23             #
 temperature_control.bed.heater_pin           2.7              #
 temperature_control.bed.thermistor           EPCOS100K        # see http://smoothieware.org/temperaturecontrol#toc5
-#temperature_control.bed.beta                 3950            # or set the beta value
+#temperature_control.bed.beta                3950             # or set the beta value
 
 temperature_control.bed.set_m_code           140              #
 temperature_control.bed.set_and_wait_m_code  190              #
@@ -122,7 +122,7 @@ temperature_control.bed.designator           B                #
 
 temperature_control.bed.p_factor             301.2            # 
 temperature_control.bed.i_factor             11.564           # 
-temperature_control.bed.d_factor             1962             #
+temperature_control.bed.d_factor             1962             # 
 
 # Switch module for fan control
 switch.fan.enable                            true             #
@@ -157,17 +157,17 @@ switch.misc.output_pin                       2.4              #
 # Endstops
 endstops_enable                              true             # the endstop module is enabled by default and can be disabled here
 #corexy_homing                               false            # set to true if homing on a hbit or corexy
-alpha_min_endstop                            1.24^            # add a ! to invert if endstop is NO connected to ground
+alpha_min_endstop                            1.24^!           # add a ! to invert if endstop is NO connected to ground
 #alpha_max_endstop                           1.24^            #
 alpha_homing_direction                       home_to_min      # or set to home_to_max and set alpha_max
 alpha_min                                    0                # this gets loaded after homing when home_to_min is set
 alpha_max                                    200              # this gets loaded after homing when home_to_max is set
-beta_min_endstop                             1.26^            #
+beta_min_endstop                             1.26^!           #
 #beta_max_endstop                            1.26^            #
 beta_homing_direction                        home_to_min      #
 beta_min                                     0                #
 beta_max                                     200              #
-gamma_min_endstop                            1.28^            #
+gamma_min_endstop                            1.28^!           #
 #gamma_max_endstop                           1.28^            #
 gamma_homing_direction                       home_to_min      #
 gamma_min                                    0                #

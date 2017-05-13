@@ -6,62 +6,54 @@ http://reprap.org/wiki/P3Steel
 
 ### Bill of Materials
 
-#### Vitamins
+**Vitamins**
 
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
-| Steel Frame V2.01                                                   |   1   | 
-| Steel X-Carriage Kit                                                |   1   |
+- (1) [Steel Frame V2.01](http://orballoprinting.com/en/frame/8-prusa-i3-steel-frame-p3steel.html)
+- (1) Steel X-Carriage Kit
 
-#### Proteins
+**Proteins**
 
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
+- (2) psu-clamp-top.stl
+- (2) psu-clip.stl
+- (1) psu-clamp-bottom.stl
+- (2) endstop-holder.stl
+- (1) feet-dampner-set.stl
+- (1) y-belt-holder.stl
 
-#### Electronics
+**Electronics**
 
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
-| Azteeg X5 mini v1.1                                                 |   1   |
-| 12v/30a DC Universal Regulated Switching Power Supply 360w          |   1   |
-| 9 ft. 14/3 Power Tool Replacement Cord                              |   1   |
-| All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal                |   1   |
-| MK3 Aluminum Hot Bed w/Hardware                                     |   1   |
+- (1) [Azteeg X5 mini v1.1](https://www.panucatt.com/azteeg_X5_mini_reprap_3d_printer_controller_p/ax5mini.htm)
+- (1) 12v/30a DC Universal Regulated Switching Power Supply 360w
+- (1) 9 ft. 14/3 Power Tool Replacement Cord
+- (1) All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal
+- (1) MK3 Aluminum Hot Bed w/Hardware
 
-#### Hardware
+**Hardware**
 
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
-| 8mm x 320mm Precision Chromed Linear Shaft Rod                      |   2   |
-| 300mm x 8mm Lead 4 Start Lead Screw & Nut                           |   2   |
-| 8mm x 406mm Precision Chromed Linear Shaft Rod                      |   2   |
-| Heated Bed Adjustment M3 Thumb Nut                                  |   4   |
-| MK8 Filament all-Metal Remote Bowden Extruder Parts                 |   1   |
-| Aluminum Spacer (6 x 1/4" x 3/8")                                   |   3   |
+- (2) 8mm x 320mm Precision Chromed Linear Shaft Rod
+- (2) 300mm x 8mm Lead 4 Start Lead Screw & Nut
+- (2) 8mm x 406mm Precision Chromed Linear Shaft Rod
+- (4) Heated Bed Adjustment M3 Thumb Nut
+- (1) MK8 Filament all-Metal Remote Bowden Extruder Parts
+- (1) Aluminum Spacer (6 x 1/4" x 3/8")
+- (3) Mechanical Endstop Switch
 
-#### Mechanical parts
+**Mechanical parts**
 
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
-| LM8UU Linear Bearings                                               |  11   |
-| 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler                 |   2   |
-| GT2 2mm pitch 6mm wide Timing Belt                                  |   -   |
-| GT2 Pulley 16T 6mm Width                                            |   2   |
-| 608 Ball Bearing                                                    |   2   |
-| NEMA 17 Stepper Motor                                               |   4   |
-| Half Height NEMA 17 Stepper Motor                                   |   1   |
+- (11) LM8UU Linear Bearings 
+- (2) 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler 
+- (1) GT2 2mm pitch 6mm wide Timing Belt (5 Meters)
+- (2) GT2 Pulley 16T 6mm Width
+- (2) 608 Ball Bearing
+- (4) NEMA 17 Stepper Motor
+- (1) Half Height NEMA 17 Stepper Motor
 
+**Optional**
 
-#### Optional
-
-| Part                                                                |  QTY  |
-|---------------------------------------------------------------------|:-----:|
-| Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm)  |   1   |
-| Dupont 2.54mm Connector Housing Female                              |   5   |
-| Dupont Jumper Wire Cable Female Pin Connector 2.54mm                |  30   |
-| Mellow-Yellow MDPC-X Sleeve (25ft)                                  |   1   |
-| Mechanical Endstop Switch                                           |   3   |
-
+- (1) Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm) 
+- (5) Dupont 2.54mm Connector Housing Female
+- (30) Dupont Jumper Wire Cable Female Pin Connector 2.54mm
+- (1) Mellow-Yellow MDPC-X Sleeve (25ft)
 
 ### Temperature Control
 
