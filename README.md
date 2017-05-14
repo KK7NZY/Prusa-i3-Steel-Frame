@@ -90,3 +90,5 @@ M303 E1 S50 C8
 - http://reprap.org/wiki/P3Steel
 - http://reprap.org/wiki/Triffid_Hunter's_Calibration_Guide
 - http://www.prusaprinters.org/calculator/
+- https://github.com/prusa3d/Slic3r
+- https://github.com/prusa3d/Slic3r-settings
