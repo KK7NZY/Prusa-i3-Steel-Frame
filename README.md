@@ -2,7 +2,9 @@ P3Steel
 ---
 RepRap P3Steel parts and build instructions.
 
-http://reprap.org/wiki/P3Steel
+### Resources:
+- http://reprap.org/wiki/P3Steel
+- http://reprap.org/wiki/Triffid_Hunter's_Calibration_Guide
 
 ### Bill of Materials
 
