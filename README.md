@@ -2,10 +2,6 @@ P3Steel
 ---
 RepRap P3Steel parts and build instructions.
 
-### Resources:
-- http://reprap.org/wiki/P3Steel
-- http://reprap.org/wiki/Triffid_Hunter's_Calibration_Guide
-
 ### Bill of Materials
 
 **Vitamins**
@@ -87,3 +83,7 @@ M303 E1 S50 C8
    Ki: 11.564
    Kd:  1962
 ```
+
+### Resources:
+- http://reprap.org/wiki/P3Steel
+- http://reprap.org/wiki/Triffid_Hunter's_Calibration_Guide
