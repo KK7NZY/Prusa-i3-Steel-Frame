@@ -18,6 +18,7 @@ RepRap P3Steel parts and build instructions.
 - (1) feet-dampner-set.stl
 - (1) y-belt-holder.stl
 - (1) y-endstop.stl
+- (1) ir-sensor-mount.stl
 
 **Electronics**
 
@@ -26,6 +27,7 @@ RepRap P3Steel parts and build instructions.
 - (1) 9 ft. 14/3 Power Tool Replacement Cord
 - (1) All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal
 - (1) MK3 Aluminum Hot Bed w/Hardware
+- (1) [Mini Differential IR Height Sensor](https://www.filastruder.com/collections/electronics/products/mini-differential-ir-height-sensor)
 
 **Hardware**
 
