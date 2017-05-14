@@ -8,9 +8,9 @@ mm_max_arc_error                             0.01             # The maximum erro
 #mm_per_line_segment                          5                # Lines can be cut into segments ( not usefull with cartesian coordinates robots ).
 
 # Arm solution configuration : Cartesian robot. Translates mm positions into stepper positions
-alpha_steps_per_mm                           200.00           # Steps per mm for alpha stepper ( 80 )
-beta_steps_per_mm                            200.00           # Steps per mm for beta stepper  ( 80 )
-gamma_steps_per_mm                           800.00          # Steps per mm for gamma stepper ( 1637.7953 )
+alpha_steps_per_mm                           200.00           # Steps per mm for alpha stepper
+beta_steps_per_mm                            200.00           # Steps per mm for beta stepper
+gamma_steps_per_mm                           800.00           # Steps per mm for gamma stepper
 
 # Planner module configuration : Look-ahead and acceleration configuration
 planner_queue_size                           32               # DO NOT CHANGE THIS UNLESS YOU KNOW EXACTLY WHAT YOUR ARE DOING
@@ -56,7 +56,7 @@ second_usb_serial_enable                     false            # This enables a s
 
 ## Extruder module configuration
 extruder.hotend.enable                          true             # Whether to activate the extruder module at all. All configuration is ignored if false
-extruder.hotend.steps_per_mm                    99.15045907374576   # Steps per mm for extruder stepper ( 140 )
+extruder.hotend.steps_per_mm                    99.15045907374576   # Steps per mm for extruder stepper 
 extruder.hotend.default_feed_rate               600              # Default rate ( mm/minute ) for moves where only the extruder moves
 extruder.hotend.acceleration                    500              # Acceleration for the stepper motor mm/sec²
 extruder.hotend.max_speed                       50               # mm/s
@@ -105,9 +105,9 @@ temperature_control.hotend.designator        T                #
 #temperature_control.hotend.max_temp         275              # Set maximum temperature - (Default 300) https://wiki.e3d-online.com/wiki/FAQs
 #temperature_control.hotend.min_temp         0                # Set minimum temperature - Will prevent heating below 0 by default
 
-temperature_control.hotend.p_factor          36.0             # ( 13.7 ) http://smoothieware.org/temperaturecontrol#pid-autotuning
-temperature_control.hotend.i_factor          2.040            # ( 0.097  )
-temperature_control.hotend.d_factor          158              # ( 24 )
+temperature_control.hotend.p_factor          36.0             # http://smoothieware.org/temperaturecontrol#pid-autotuning
+temperature_control.hotend.i_factor          2.040            # 
+temperature_control.hotend.d_factor          158              # 
 
 temperature_control.bed.enable               true             #
 temperature_control.bed.thermistor_pin       0.23             #
