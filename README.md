@@ -25,7 +25,7 @@ RepRap P3Steel parts and build instructions.
 - (1) [Azteeg X5 mini v1.1](https://www.panucatt.com/azteeg_X5_mini_reprap_3d_printer_controller_p/ax5mini.htm)
 - (1) 12v/30a DC Universal Regulated Switching Power Supply 360w
 - (1) 9 ft. 14/3 Power Tool Replacement Cord
-- (1) All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal
+- (1) [All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal](https://www.filastruder.com/products/all-metal-e3d-v6-hotend)
 - (1) MK3 Aluminum Hot Bed w/Hardware
 - (1) [Mini Differential IR Height Sensor](https://www.filastruder.com/collections/electronics/products/mini-differential-ir-height-sensor)
 
