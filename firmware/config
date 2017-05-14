@@ -56,7 +56,7 @@ second_usb_serial_enable                     false            # This enables a s
 
 ## Extruder module configuration
 extruder.hotend.enable                          true             # Whether to activate the extruder module at all. All configuration is ignored if false
-extruder.hotend.steps_per_mm                    84.88270801303375   # Steps per mm for extruder stepper ( 140 )
+extruder.hotend.steps_per_mm                    99.15045907374576   # Steps per mm for extruder stepper ( 140 )
 extruder.hotend.default_feed_rate               600              # Default rate ( mm/minute ) for moves where only the extruder moves
 extruder.hotend.acceleration                    500              # Acceleration for the stepper motor mm/sec²
 extruder.hotend.max_speed                       50               # mm/s
