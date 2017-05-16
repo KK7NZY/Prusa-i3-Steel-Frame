@@ -92,4 +92,4 @@ M303 E1 S50 C8
 - http://www.prusaprinters.org/calculator/
 - https://github.com/prusa3d/Slic3r
 - https://github.com/prusa3d/Slic3r-settings
-- https://thingiverse-production-new.s3.amazonaws.com/assets/87/b0/2c/f5/4c/CheatSheet.pdf
+- [RepRap GCode Cheat Sheet](https://thingiverse-production-new.s3.amazonaws.com/assets/87/b0/2c/f5/4c/CheatSheet.pdf)
