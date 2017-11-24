@@ -93,3 +93,4 @@ M303 E1 S50 C8
 - [Prusa3D Slic3r](https://github.com/prusa3d/Slic3r)
 - [RepRap GCode Cheat Sheet](https://thingiverse-production-new.s3.amazonaws.com/assets/87/b0/2c/f5/4c/CheatSheet.pdf)
 - [Mini height sensor board](https://miscsolutions.wordpress.com/mini-height-sensor-board/)
+- [Supported G Codes](http://smoothieware.org/supported-g-codes?s[]=gcode)
