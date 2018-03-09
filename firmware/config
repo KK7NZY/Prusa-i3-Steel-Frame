@@ -213,15 +213,18 @@ zprobe.probe_height                          5               # how much above be
 #leveling-strategy.three-point-leveling.probe_offsets  0,0,0       # the probe offsets from nozzle, must be x,y,z, default is no offset
 #leveling-strategy.three-point-leveling.save_plane     true        # set to true to allow the bed plane to be saved with M500 default is false
 
-leveling-strategy.rectangular-grid.enable          true
-leveling-strategy.rectangular-grid.x_size          75
-leveling-strategy.rectangular-grid.y_size          50
-leveling-strategy.rectangular-grid.size            7
-leveling-strategy.rectangular-grid.do_home         false
-leveling-strategy.rectangular-grid.probe_offsets   0,0,0 # probe offsets x,y,z  (Z should always be 0)
-leveling-strategy.rectangular-grid.save            true
-leveling-strategy.rectangular-grid.initial_height  10    # move to Z10 before first probe.
-mm_per_line_segment 1 # necessary for cartesians using rectangular-grid
+leveling-strategy.rectangular-grid.enable               true     # The strategy must be enabled in the config, as well as the zprobe module.
+leveling-strategy.rectangular-grid.x_size               75       # size of bed in the X axis
+leveling-strategy.rectangular-grid.y_size               50       # size of bed in the Y axis
+leveling-strategy.rectangular-grid.size                 7 	     # The size of the grid, for example, 7 causes a 7x7 grid with 49 points. 
+                                                                 # Must be an odd number.
+leveling-strategy.rectangular-grid.do_home              true              
+leveling-strategy.rectangular-grid.probe_offsets        0,0,0    # Optional probe offsets from the nozzle or tool head
+leveling-strategy.rectangular-grid.save                 false    # If the saved grid is to be loaded on boot then this must be set to true
+leveling-strategy.rectangular-grid.initial_height       10       # will move to Z10 before the first probe
+leveling-strategy.rectangular-grid.dampening_start      0.5      # compansation decrease point (optional)
+leveling-strategy.rectangular-grid.height_limit         1        # no compensation to apply after this point (optional)
+mm_per_line_segment                                     1        # necessary for cartesians using rectangular-grid
 
 
 # kill button (used to be called pause) maybe assigned to a different pin, set to the onboard pin by default
