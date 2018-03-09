@@ -7,7 +7,7 @@ RepRap P3Steel parts and build instructions.
 **Vitamins**
 
 - (1) [Steel Frame V2.01](http://orballoprinting.com/en/frame/8-prusa-i3-steel-frame-p3steel.html)
-- (1) Steel X-Carriage Kit
+- (1) [Steel X-Carriage Kit](https://www.ebay.com/itm/P3Steel-Lasercut-All-metal-kit-for-v2-v2-5-v4-Frame-Prusa-i3-3D-Printer-RepRap/142481311508?hash=item212c8c4714:m:mjlspcO-BZfzM17dPAfYKhQ)
 
 **Proteins**
 
