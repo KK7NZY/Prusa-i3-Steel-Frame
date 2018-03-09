@@ -63,7 +63,7 @@ RepRap P3Steel parts and build instructions.
 http://smoothieware.org/temperaturecontrol?s[]=temperaturecontrol&s[]=pid&s[]=autotuning#pid-autotuning
 
 
-**PID Settings*
+**PID Settings**
 
 ```sh
 # E3D-v6 Hotend
