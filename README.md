@@ -26,7 +26,7 @@ RepRap P3Steel parts and build instructions.
 - (1) 12v/30a DC Universal Regulated Switching Power Supply 360w
 - (1) 9 ft. 14/3 Power Tool Replacement Cord
 - (1) [All-metal E3D v6 Hotend - 12 Volt / 1.75mm Universal](https://www.filastruder.com/products/all-metal-e3d-v6-hotend)
-- (1) MK3 Aluminum Hot Bed w/Hardware
+- (1) 12V 220W Silicone Heater w/adhesive tape (200mm x 200mm)
 - (1) [Mini Differential IR Height Sensor](https://www.filastruder.com/collections/electronics/products/mini-differential-ir-height-sensor)
 
 **Hardware**
@@ -38,45 +38,43 @@ RepRap P3Steel parts and build instructions.
 - (1) MK8 Filament all-Metal Remote Bowden Extruder Parts
 - (1) Aluminum Spacer (6 x 1/4" x 3/8")
 - (3) Mechanical Endstop Switch
+- (1) Aluminum Bed Build Plate (200mm x 200mm x 2mm)
+- (1) Heated Bed Tempered Borosilicate Glass Plate
 
 **Mechanical parts**
 
-- (11) LM8UU Linear Bearings 
+- (4) LM8UU Linear Bearings 
+- (7) Igus DryLin® RJ4JP 01-08
 - (2) 5mm to 8mm Shaft Rigid Motor Wheel Coupling Coupler 
 - (1) GT2 2mm pitch 6mm wide Timing Belt (5 Meters)
 - (2) GT2 Pulley 16T 6mm Width
 - (2) 608 Ball Bearing
-- (4) NEMA 17 Stepper Motor
-- (1) Half Height NEMA 17 Stepper Motor
+- (4) [NEMA 17 Stepper Motor](https://www.lulzbot.com/store/parts/nema-17-stepper-motor)
+- (1) [Half Height NEMA 17 Stepper Motor](https://www.lulzbot.com/store/parts/half-height-nema-17-stepper-motor)
+- (30) [Female Crimp terminal for 0.1" pitch headers](https://mod-one.com/female-crimp-terminal-for-0-1-pitch-headers-5-pack/)
+- (5) Dupont 2.54mm Connector Housing Female
 
 **Optional**
 
-- (1) Heated Bed Tempered Borosilicate Glass Plate (213mm x 200mm x 3mm) 
-- (5) Dupont 2.54mm Connector Housing Female
-- (30) Dupont Jumper Wire Cable Female Pin Connector 2.54mm
-- (1) Mellow-Yellow MDPC-X Sleeve (25ft)
+- (1) [Mellow-Yellow MDPC-X Sleeve (25ft)](https://mod-one.com/mdpc-x-cable-sleeve/)
 
 ### Temperature Control
 
 http://smoothieware.org/temperaturecontrol?s[]=temperaturecontrol&s[]=pid&s[]=autotuning#pid-autotuning
 
 
-**E3D-v6 Hotend**
+**PID Settings*
 
-https://wiki.e3d-online.com/wiki/E3D-v6_Assembly
-
-```shell
+```sh
+# E3D-v6 Hotend
 M303 E0 S230 C10
 // Cycle 4: max 236.676,min:225.84,avg seperation: 0.281876
    Ku: 59.9243,Pu 35.25
    Kp: 36.0
    Ki: 2.040
    Kd: 158
-```
 
-**Hotbed**
-
-```shell
+# Heatbed
 M303 E1 S50 C8
 // Cycle 4: max: 50.6263, min: 49.3329, avg separation: 0.00749207
    Ku: 502.053, Pu: 52.1
@@ -93,3 +91,5 @@ M303 E1 S50 C8
 - [Prusa3D Slic3r](https://github.com/prusa3d/Slic3r)
 - [RepRap GCode Cheat Sheet](https://thingiverse-production-new.s3.amazonaws.com/assets/87/b0/2c/f5/4c/CheatSheet.pdf)
 - [Mini height sensor board](https://miscsolutions.wordpress.com/mini-height-sensor-board/)
+- [Smoothie Firmware](https://github.com/Smoothieware/Smoothieware/tree/edge/FirmwareBin)
+- [E3D-v6_Assembly](https://wiki.e3d-online.com/wiki/E3D-v6_Assembly)
