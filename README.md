@@ -93,3 +93,4 @@ M303 E1 S50 C8
 - [Mini height sensor board](https://miscsolutions.wordpress.com/mini-height-sensor-board/)
 - [Smoothie Firmware](https://github.com/Smoothieware/Smoothieware/tree/edge/FirmwareBin)
 - [E3D-v6_Assembly](https://wiki.e3d-online.com/wiki/E3D-v6_Assembly)
+- [Smoothieware Z-probe](http://smoothieware.org/zprobe#configuration-options4)
