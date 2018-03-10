@@ -213,9 +213,9 @@ zprobe.probe_height                          5               # how much above be
 #leveling-strategy.three-point-leveling.probe_offsets  0,0,0       # the probe offsets from nozzle, must be x,y,z, default is no offset
 #leveling-strategy.three-point-leveling.save_plane     true        # set to true to allow the bed plane to be saved with M500 default is false
 
-leveling-strategy.rectangular-grid.enable               true     # The strategy must be enabled in the config, as well as the zprobe module.
-leveling-strategy.rectangular-grid.x_size               75       # size of bed in the X axis
-leveling-strategy.rectangular-grid.y_size               50       # size of bed in the Y axis
+leveling-strategy.rectangular-grid.enable               false    # The strategy must be enabled in the config, as well as the zprobe module.
+leveling-strategy.rectangular-grid.x_size               203.2    # size of bed in the X axis
+leveling-strategy.rectangular-grid.y_size               203.2    # size of bed in the Y axis
 leveling-strategy.rectangular-grid.size                 7 	     # The size of the grid, for example, 7 causes a 7x7 grid with 49 points. 
                                                                  # Must be an odd number.
 leveling-strategy.rectangular-grid.do_home              true              
